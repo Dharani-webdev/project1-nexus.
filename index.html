@@ -22,9 +22,9 @@
             </div>
             <div class="input-field">
               <i class="fas fa-lock"></i>
-              <input type="password" aria-required="true" placeholder="Password" required />
-            </div>
-          
+  <input type="password"  placeholder="Password" aria-required="true" required>
+    </div>
+   
               <div class="forgot">
                 <a href="#" style="color: white;">Forgot Password</a>
               </div>
@@ -50,16 +50,24 @@
             <h2 class="title">Sign Up</h2>
             <div class="input-field">
               <i class="fas fa-user"></i>
-              <input type="text" aria-required="true" placeholder="Username" />
+              <input type="text" aria-required="true" placeholder="Username" required/>
             </div>
             <div class="input-field">
               <i class="fas fa-envelope"></i>
-              <input type="email" aria-required="true" placeholder="Email" />
+              <input type="email" aria-required="true" placeholder="Email" required />
             </div>
             <div class="input-field">
               <i class="fas fa-lock"></i>
- <input type="password" aria-required="true"  placeholder="Password" />
+              <input type="password" id="psw" name="psw" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" required placeholder="Password">
             </div>
+             <div id="message">
+      <h3>Password must contain the following:</h3>
+      <p id="letter" class="invalid">A <b>lowercase</b>letter</p>
+      <p id="capital" class="invalid">A <b>capital (uppercase)</b> letter</p>
+      <p id="number" class="invalid">A <b>number</b></p>
+      <p id="length" class="invalid">Minimum <b>8 characters</b></p>
+    </div>
+          
             <input type="submit" class="btn" value="Sign up" />
             <p class="social-text">Or Sign up with social platforms</p>
             <div class="social-media">

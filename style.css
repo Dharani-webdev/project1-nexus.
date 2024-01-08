@@ -105,6 +105,42 @@ form.sign-in-form {
   font-weight: 400;
 
 }
+
+/* The message box is shown when the user clicks on the password field */
+#message {
+  display:none;
+  background: #f1f1f1;
+  color: #000;
+  position: relative;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+#message p {
+  padding: 10px 25px;
+  font-size: 11px;
+}
+
+/* Add a green text color and a checkmark when the requirements are right */
+.valid {
+  color: green;
+}
+
+.valid:before {
+  position: relative;
+  left: -35px;
+ 
+}
+
+/* Add a red text color and an "x" icon when the requirements are wrong */
+.invalid {
+  color: rgb(189, 27, 27);
+}
+
+.invalid:before {
+  position: relative;
+  left: -35px;
+}
 .forgot a{
   text-decoration: none;
   text-align: right;

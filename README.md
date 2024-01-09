@@ -22,7 +22,7 @@ Sign up Page:
     •	JavaScript Interactivity: Manages form submission and handles user registration logic.
 **Login Page:**
 ----------------------
-•	User-Interface
+•User-Interface
 	The login page should include the following elements:
         •	Username/Email input field
         •    Password input field

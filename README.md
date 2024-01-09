@@ -20,6 +20,7 @@ Sign up Page:
     •	HTML Structure: Includes form elements for new username and password input.
     •	CSS Styling: Tailored styles for the signup page to maintain a consistent look.
     •	JavaScript Interactivity: Manages form submission and handles user registration logic.
+  	
 **Login Page:**
 ----------------------
 •User-Interface
@@ -58,7 +59,7 @@ Sign up Page:
       •	CSS Decorations 
       •	Form Validation
 
-          In conclusion, the development of the Frontend Login and Signup Form project has laid the groundwork for a user-friendly and visually appealing experience. This project focused on creating a seamless interface for users to log in and sign up while maintaining a high standard of design and interactivity. The Frontend Login and Signup Form project serves as a foundation for creating a positive user experience during the process. With a focus on design, responsiveness, and interactivity, the forms are well-positioned for further refinement and integration into a complete web application.
+	In conclusion, the development of the Frontend Login and Signup Form project has laid the groundwork for a user-friendly and visually appealing experience. This project focused on creating a seamless interface for users to log in and sign up while maintaining a high standard of design and interactivity. The Frontend Login and Signup Form project serves as a foundation for creating a positive user experience during the process. With a focus on design, responsiveness, and interactivity, the forms are well-positioned for further refinement and integration into a complete web application.
 
 
 

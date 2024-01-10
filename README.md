@@ -10,16 +10,22 @@ Project Name: Login and Signup Page (Front-end Only)
 **SPECIFICATIONS:**
 -------------------
 This project aims to create a user-friendly  system for a web application. The login and signup pages are crucial components, allowing users to access personalized content and features. The purpose of this documentation is to provide a comprehensive guide on the design, functionality for the login and signup pages of a web application.
+
 PROJECT OBJECTIVES:
+
 1.	Login Page: Provide a seamless and intuitive login experience for existing users to access their accounts.
 2.	Sign Up Page: Create a user-friendly signup process for new users to register and create their accounts.
+	
 PROJECT STRUCTURE:
+
 The project is structured into two main parts: the login page and the signup page. Each page has its HTML, CSS, and JavaScript files to ensure modularity and maintainability.
 Login Page:
+
     •	HTML Structure: Contains form elements for username and password input.
     •	CSS Styling: Provides a visually appealing and responsive design for the login page.
     •	JavaScript Interactivity: Handles form submission and potential authentication logic.
 Sign up Page:
+
     •	HTML Structure: Includes form elements for new username and password input.
     •	CSS Styling: Tailored styles for the signup page to maintain a consistent look.
     •	JavaScript Interactivity: Manages form submission and handles user registration logic.

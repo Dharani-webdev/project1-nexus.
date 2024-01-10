@@ -33,6 +33,7 @@ Sign up Page:
   	
 **Login Page:**
 ----------------------
+
 •User-Interface
 
 	The login page should include the following elements:
@@ -55,18 +56,22 @@ Sign up Page:
         •	"Signup" button
         •	Sign up with Social Platforms
         •	Already have an account “Login”
+	
 •  Functionality
         •	Validating and accepting user inputs for registration.
         •	Creating a new user account.
 
 **Frontend Technologies:**
+
       •	HTML5
       •	CSS3
       •	JavaScript
 **Design Principles:**
+
       •	Responsive Design for various screen sizes
       •	User-friendly and intuitive interface
 **Project Requirements:**
+
       •	Attractive Design
       •	Responsiveness
       •	CSS Decorations 

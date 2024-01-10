@@ -19,6 +19,7 @@ PROJECT OBJECTIVES:
 PROJECT STRUCTURE:
 
 The project is structured into two main parts: the login page and the signup page. Each page has its HTML, CSS, and JavaScript files to ensure modularity and maintainability.
+
 Login Page:
 
     •	HTML Structure: Contains form elements for username and password input.
@@ -33,8 +34,10 @@ Sign up Page:
 **Login Page:**
 ----------------------
 •User-Interface
+
 	The login page should include the following elements:
-        •	Username/Email input field
+ 
+        •   Username/Email input field
         •    Password input field
         •    "Forgot Password" link
         •    "Login" button
@@ -43,15 +46,16 @@ Sign up Page:
 
 **Sign up Page:**
 -----------------------
-•	User Interface
-   The signup page should include the following elements:
+
+•  User Interface
+         The signup page should include the following elements:
         •	Username input field
         •	Email input field
         •	Password input field
         •	"Signup" button
         •	Sign up with Social Platforms
         •	Already have an account “Login”
-•	Functionality
+•  Functionality
         •	Validating and accepting user inputs for registration.
         •	Creating a new user account.
 

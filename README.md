@@ -49,7 +49,9 @@ Sign up Page:
 -----------------------
 
 •  User Interface
+
          The signup page should include the following elements:
+	 
         •	Username input field
         •	Email input field
         •	Password input field
@@ -58,6 +60,7 @@ Sign up Page:
         •	Already have an account “Login”
 	
 •  Functionality
+
         •	Validating and accepting user inputs for registration.
         •	Creating a new user account.
 
